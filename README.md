@@ -10,3 +10,4 @@ The program runs on python. It receives the data files as parameters to main in 
 
 ```(train_x.txt train_y.txt test_x.txt test_y.txt)```
 
+Aside from the default files, I uploaded 4 more train files.
